@@ -117,18 +117,6 @@ Help other researchers find these tools!
 
 ---
 
-## ⚖️ Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Simulation accuracy depends on model parameters, validation against experimental data, and appropriate numerical methods.
-- For research publications, cite the original tool papers and ensure compliance with licenses.
-
----
-
-<div align="center">
-  <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
-</div>
-
 ## 📈 Star History
 
 <div align="center">
@@ -141,3 +129,15 @@ Help other researchers find these tools!
   </a>
 </div>
 
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Simulation accuracy depends on model parameters, validation against experimental data, and appropriate numerical methods.
+- For research publications, cite the original tool papers and ensure compliance with licenses.
+
+---
+
+<div align="center">
+  <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
+</div>
