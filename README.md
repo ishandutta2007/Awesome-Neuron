@@ -140,23 +140,6 @@ Help other researchers find these tools!
   <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
 </div>
 
-## 📈 Star History
-
-<div align="center">
-  <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Neuron&type=date&legend=bottom-right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&legend=bottom-right" />
-      <img alt="Star History Chart showing the growth of the Awesome-Neuron repository over time" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&legend=bottom-right" />
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZ4N3F5Znd6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" alt="Neural Simulation Animation">
-  <p><i>Visualizing neural activity and network dynamics.</i></p>
-</div>
-
 ---
 
 ## 💻 Open-Source GitHub Projects
