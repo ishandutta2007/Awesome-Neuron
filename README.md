@@ -65,41 +65,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
   <p><i>Visualizing complex neural activity and network dynamics in real-time.</i></p>
 </div>
 
----
-
-## 🤝 How to Contribute
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📢 Share This Resource
-
-Help other researchers find these tools!
-
-[![Share on Twitter](https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome-Neuron:%20A%20curated%20list%20of%20computational%20neuroscience%20tools!%20https://github.com/ishandutta2007/Awesome-Neuron)
-[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/ishandutta2007/Awesome-Neuron)
-[![Share on Facebook](https://img.shields.io/badge/Share%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/ishandutta2007/Awesome-Neuron)
-
----
-
-## ⚖️ Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Simulation accuracy depends on model parameters, validation against experimental data, and appropriate numerical methods.
-- For research publications, cite the original tool papers and ensure compliance with licenses.
-
----
-
-<div align="center">
-  <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
-</div>
 
 ---
 
@@ -138,8 +103,6 @@ Help other researchers find these tools!
 - **[NeuroML](https://github.com/NeuroML)** — Standard for describing and exchanging multi-scale neuronal models. 📝
 - **PhysiCell** — For hybrid neuro-biological modeling and extensions. 🧫
 
----
-
 ## 🤝 How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -149,6 +112,16 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+## 📢 Share This Resource
+
+Help other researchers find these tools!
+
+[![Share on Twitter](https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome-Neuron:%20A%20curated%20list%20of%20computational%20neuroscience%20tools!%20https://github.com/ishandutta2007/Awesome-Neuron)
+[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/ishandutta2007/Awesome-Neuron)
+[![Share on Facebook](https://img.shields.io/badge/Share%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/ishandutta2007/Awesome-Neuron)
 
 ---
 
