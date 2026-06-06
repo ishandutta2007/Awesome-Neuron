@@ -41,30 +41,15 @@ Whether you are interested in **stochastic simulation**, **reaction-diffusion sy
 
 ## 🚀 SaaS / Hosted Platforms
 
-### Core Multi-Scale Neuronal Simulation Platforms 🧪
-
-- **[NEURON Simulator](https://nrn.readthedocs.io/)** 🧠  
-  Gold-standard simulator for detailed biophysical models of neurons and networks. Supports compartmental modeling, stochastic channels, parallel simulation, and integration with Python.
-
-- **[CoreNEURON](https://nrn.readthedocs.io/)** ⚡  
-  (Integrated in NEURON) Optimized engine for large-scale network simulations, delivering significant performance improvements on modern hardware.
-
-### Advanced & Specialized Platforms 🔬
-
-- **[MOOSE (Multiscale Object-Oriented Simulation Environment)](https://moose.ncbs.res.in/)** 🦌  
-  Multi-scale simulator for neural systems ranging from biochemical signaling to complex neuronal networks and circuits.
-
-- **[STEPS (STochastic Engine for Pathway Simulation)](https://steps.sourceforge.net/)** 👣  
-  Exact stochastic simulator for reaction-diffusion systems in complex 3D neuronal geometries.
-
-- **[Arbor](https://arbor-sim.org/)** 🌲  
-  High-performance, multi-compartment neural network simulation library designed for modern hardware and scalability.
-
-- **[NetPyNE](https://www.netpyne.org/)** 🕸️  
-  Python package for developing, simulating, and analyzing large-scale biological neuronal networks using NEURON.
-
-- **[Open Source Brain (OSB)](https://www.opensourcebrain.org/)** 🌐  
-  Collaborative platform for sharing, visualizing, and simulating neuronal models in standardized formats (NeuroML).
+| Platform | Primary Use Case | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[Open Source Brain (OSBv2)](https://v2.opensourcebrain.org/)** | Collaborative modeling, visualization, and cloud-based simulation (NetPyNE, Jupyter). | **Free** (Academic). Provides persistent cloud workspaces and integrated simulation tools. |
+| **[Neuroscience Gateway (NSG)](https://www.nsgportal.org/)** | Running large-scale parallel simulations (NEURON, Brian2, NEST) on supercomputers. | **Free** (Academic). Initial allocation of **20,000 core hours/year**; supplemental requests possible. |
+| **[EBRAINS](https://ebrains.eu/)** | European research infrastructure for brain research, simulation, and data analysis. | **Free** for researchers and students. Includes JupyterLab and HPC access. |
+| **[The Virtual Brain (TVB) Cloud](https://thevirtualbrain.org/)** | Personalized brain network modeling and clinical simulation. | **Free** (Open-source and hosted via EBRAINS infrastructure). |
+| **[NetPyNE-UI (Hosted)](http://netpyne.opensourcebrain.org/)** | Web-based GUI for building and simulating large-scale biological networks. | **Free** (Hosted via OSB/NSG). No subscription fees. |
+| **[ModelDB](https://modeldb.yale.edu/)** | Repository of models with "Run in ModelDB" integration for quick cloud testing. | **Free**. Integrated with OSB for one-click simulation execution. |
+| **Self-Hosted (AWS/GCP/Azure)** | Private, custom-scaled instances of any open-source simulator. | **Pay-as-you-go** based on cloud provider infrastructure costs (vCPU/GPU/Storage). |
 
 ---
 
