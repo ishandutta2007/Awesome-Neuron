@@ -67,45 +67,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 
 ---
 
-## 💻 Open-Source GitHub Projects
-
-### Dedicated Multi-Scale Neuronal Simulation Projects 🛠️
-
-- **[NEURON Simulator](https://github.com/neuronsimulator/nrn)** 🖥️  
-  The leading open-source simulator for biologically detailed neuron and network models. Supports Hodgkin-Huxley style compartmental modeling, reaction-diffusion, and Python scripting.
-
-- **[CoreNEURON](https://github.com/neuronsimulator/nrn/tree/master/src/coreneuron)** 🏎️  
-  (Integrated in NEURON) High-performance compute engine optimized for large-scale parallel simulations of detailed neuronal networks.
-
-- **[MOOSE (BhallaLab)](https://github.com/BhallaLab/moose)** 🧬  
-  Multiscale Object-Oriented Simulation Environment for modeling from biochemical signaling pathways to full neuronal networks and circuits.
-
-- **[STEPS](https://github.com/CNS-OIST/STEPS)** 🧪  
-  STochastic Engine for Pathway Simulation — supports exact stochastic simulation of reaction-diffusion systems in complex 3D cellular geometries.
-
-- **[Arbor](https://github.com/arbor-sim/arbor)** 🚀  
-  Modern, performance-portable library for multi-compartment neuron network simulations. Designed for scalability on CPUs and accelerators.
-
-- **[NetPyNE](https://github.com/suny-downstate-medical-center/netpyne)** 📊  
-  High-level Python interface for NEURON. Simplifies development, parallel simulation, optimization, and analysis of large-scale neuronal networks.
-
-- **[Open Source Brain (OSB)](https://github.com/OpenSourceBrain)** 🌍  
-  Platform and tools for sharing, simulating, and collaborating on neuronal models, with strong support for NeuroML standards.
-
-- **[ModelDB](https://modeldb.yale.edu/)** 📚  
-  Curated repository of published computational neuroscience models, many compatible with NEURON, MOOSE, and other simulators.
-
-### Additional Strong Open-Source Options 🔗
-
-- **[Brian 2](https://github.com/brian-team/brian2)** — Flexible Python simulator for spiking neural networks with emphasis on ease of use. 🐍
-- **[NEST Simulator](https://github.com/nest/nest-simulator)** — Leading simulator for large-scale spiking neural networks. 🏗️
-- **[NeuroML](https://github.com/NeuroML)** — Standard for describing and exchanging multi-scale neuronal models. 📝
-- **PhysiCell** — For hybrid neuro-biological modeling and extensions. 🧫
-
-[↑ Back to Top](#-awesome-neuron-computational-neuroscience--brain-simulation-)
-
----
-
 ## 🤝 How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
