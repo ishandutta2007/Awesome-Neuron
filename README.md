@@ -60,14 +60,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZ4N3F5Znd6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" alt="Animated GIF showing a simulation of neural firing and network connectivity dynamics in a biological brain model">
-  <p><i>Visualizing complex neural activity and network dynamics in real-time.</i></p>
-</div>
-
-
----
-
 ## 💻 Open-Source GitHub Projects
 
 ### Dedicated Multi-Scale Neuronal Simulation Projects 🛠️
