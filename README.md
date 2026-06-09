@@ -12,18 +12,16 @@
 <br />
 <br />
   <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <img src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
   </a>
 
 **The definitive curated list of multi-scale simulation platforms, SaaS products, and open-source projects for biological neurons, neural circuits, and brain modeling.**
 
 [Explore Platforms](#saas--hosted-platforms) • [Open Source Projects](#open-source-github-projects) • [Contribute](#how-to-contribute) • [Share](#-share-this-resource)
 
-</div>
-
 ---
 
-![Computational Neuroscience Simulation Banner - Artistically rendered neural network showing synaptic connections and brain activity](https://images.unsplash.com/photo-1675191475052-dc335a91b29e?auto=format&fit=crop&w=1200&h=400&q=80)
+![Computational Neuroscience Simulation Banner - Artistically rendered neural network showing synaptic connections and brain activity](https://images.unsplash.com/photo-1675191475052-dc335a91b29e?w=1200&q=80)
 
 </div>
 
@@ -69,6 +67,13 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" alt="Animated GIF showing a simulation of neural firing and network connectivity dynamics in a biological brain model">
+  <p><i>Visualizing complex neural activity and network dynamics in real-time.</i></p>
+</div>
+
+---
+
 ## 💻 Open-Source GitHub Projects
 
 ### Dedicated Multi-Scale Neuronal Simulation Projects 🛠️
@@ -104,6 +109,10 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 - **[NeuroML](https://github.com/NeuroML)** — Standard for describing and exchanging multi-scale neuronal models. 📝
 - **PhysiCell** — For hybrid neuro-biological modeling and extensions. 🧫
 
+[↑ Back to Top](#-awesome-neuron-computational-neuroscience--brain-simulation-)
+
+---
+
 ## 🤝 How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -126,19 +135,6 @@ Help other researchers find these tools!
 
 ---
 
-## 📈 Star History
-
-<div align="center">
-  <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Neuron&type=date&legend=bottom-right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&legend=bottom-right" />
-    </picture>
-  </a>
-</div>
-
-
 ## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
@@ -149,4 +145,16 @@ Help other researchers find these tools!
 
 <div align="center">
   <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
+</div>
+
+## 📈 Star History
+
+<div align="center">
+  <a href="https://star-history.com/#ishandutta2007/Awesome-Neuron&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date" />
+      <img alt="Star History Chart showing the growth of the Awesome-Neuron repository over time" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date" />
+    </picture>
+  </a>
 </div>
