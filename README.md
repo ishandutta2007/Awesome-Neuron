@@ -2,11 +2,15 @@
 
 <div align="center">
   
-[![Awesome](https://img.shields.io/badge/awesome-yes-brightgreen.svg)](https://awesome.re)
+[![Awesome](https://img.shields.io/badge/awesome-yes-brightgreen.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **The definitive curated list of multi-scale simulation platforms, SaaS products, and open-source projects for biological neurons, neural circuits, and brain modeling.**
 
