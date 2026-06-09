@@ -1,16 +1,25 @@
 # 🧠 Awesome-Neuron: Computational Neuroscience & Brain Simulation 🔬
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ishandutta2007/Awesome-Neuron/graphs/commit-activity)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/ishandutta2007/Awesome-Neuron.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome-Neuron:%20A%20curated%20list%20of%20computational%20neuroscience%20tools!%20https://github.com/ishandutta2007/Awesome-Neuron)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **The definitive curated list of multi-scale simulation platforms, SaaS products, and open-source projects for biological neurons, neural circuits, and brain modeling.**
 
 [Explore Platforms](#saas--hosted-platforms) • [Open Source Projects](#open-source-github-projects) • [Contribute](#how-to-contribute) • [Share](#-share-this-resource)
+
+</div>
 
 ---
 
