@@ -4,24 +4,17 @@
   
 [![Awesome](https://img.shields.io/badge/awesome-yes-brightgreen.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ishandutta2007/Awesome-Neuron/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ishandutta2007/Awesome-Neuron.svg)](https://github.com/ishandutta2007/Awesome-Neuron)
-[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fishandutta2007%2FAwesome-Neuron)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome-Neuron:%20A%20curated%20list%20of%20computational%20neuroscience%20tools!%20https://github.com/ishandutta2007/Awesome-Neuron)
-<br />
-<br />
-[![Followers](https://img.shields.io/github/followers/ishandutta2007?style=social)](https://github.com/ishandutta2007)
 
 **The definitive curated list of multi-scale simulation platforms, SaaS products, and open-source projects for biological neurons, neural circuits, and brain modeling.**
 
-[Explore Platforms](#saas--hosted-platforms) • [Open Source Projects](#open-source-github-projects) • [Contribute](#how-to-contribute) • [Share](#-share-this-resource)
-
----
-
-![Computational Neuroscience Simulation Banner](https://images.unsplash.com/photo-1675191475052-dc335a91b29e?w=1200&q=80)
+[Explore Platforms](#saas--hosted-platforms) • [Open Source Projects](#open-source-github-projects) • [Contribute](#how-to-contribute) • [Share](#share-this-resource)
 
 </div>
+
+---
 
 ## 🌟 Overview
 
@@ -39,16 +32,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 
 ---
 
-## 🗺️ Table of Contents
-- [🚀 SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [💻 Open-Source GitHub Projects](#open-source-github-projects)
-- [🤝 How to Contribute](#how-to-contribute)
-- [📢 Share This Resource](#-share-this-resource)
-- [⚖️ Disclaimer](#disclaimer)
-- [📈 Star History](#star-history)
-
----
-
 ## 🚀 SaaS / Hosted Platforms
 
 | Platform | Primary Use Case | Pricing & Free Tier |
@@ -60,15 +43,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 | **[NetPyNE-UI (Hosted)](http://netpyne.opensourcebrain.org/)** | Web-based GUI for building and simulating large-scale biological networks. | **Free** (Hosted via OSB/NSG). No subscription fees. |
 | **[ModelDB](https://modeldb.yale.edu/)** | Repository of models with "Run in ModelDB" integration for quick cloud testing. | **Free**. Integrated with OSB for one-click simulation execution. |
 | **Self-Hosted (AWS/GCP/Azure)** | Private, custom-scaled instances of any open-source simulator. | **Pay-as-you-go** based on cloud provider infrastructure costs (vCPU/GPU/Storage). |
-
-[↑ Back to Top](#-awesome-neuron-computational-neuroscience--brain-simulation-)
-
----
-
-<div align="center">
-  <img src="https://i.giphy.com/3o7TKVUn7iM8FMEU24.gif" width="600" alt="Neural Simulation Animation">
-  <p><i>Visualizing complex neural activity and network dynamics in real-time.</i></p>
-</div>
 
 ---
 
@@ -107,8 +81,6 @@ Welcome to **Awesome-Neuron**, the premier ecosystem for **computational neurosc
 - **[NeuroML](https://github.com/NeuroML)** — Standard for describing and exchanging multi-scale neuronal models. 📝
 - **PhysiCell** — For hybrid neuro-biological modeling and extensions. 🧫
 
-[↑ Back to Top](#-awesome-neuron-computational-neuroscience--brain-simulation-)
-
 ---
 
 ## 🤝 How to Contribute
@@ -129,7 +101,12 @@ Help other researchers find these tools!
 
 [![Share on Twitter](https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome-Neuron:%20A%20curated%20list%20of%20computational%20neuroscience%20tools!%20https://github.com/ishandutta2007/Awesome-Neuron)
 [![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/ishandutta2007/Awesome-Neuron)
-[![Share on Facebook](https://img.shields.io/badge/Share%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/ishandutta2007/Awesome-Neuron)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date)](https://star-history.com/#ishandutta2007/Awesome-Neuron&Date)
 
 ---
 
@@ -143,16 +120,4 @@ Help other researchers find these tools!
 
 <div align="center">
   <b>Made with ❤️ for computational neuroscientists, systems biologists, and researchers.</b>
-</div>
-
-## 📈 Star History
-
-<div align="center">
-  <a href="https://star-history.com/#ishandutta2007/Awesome-Neuron&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Neuron&type=date" />
-    </picture>
-  </a>
 </div>
